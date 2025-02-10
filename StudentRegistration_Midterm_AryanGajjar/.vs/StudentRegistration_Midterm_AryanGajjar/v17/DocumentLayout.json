@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE8290-82F3-4CDD-A5F4-6B6C161F75AD}|StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar.csproj|c:\\users\\aryan\\onedrive\\desktop\\prog2070_mt25_aryangajjar\\studentregistration_midterm_aryangajjar\\studentregistration_midterm_aryangajjar\\registrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE8290-82F3-4CDD-A5F4-6B6C161F75AD}|StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar.csproj|solutionrelative:studentregistration_midterm_aryangajjar\\registrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE8290-82F3-4CDD-A5F4-6B6C161F75AD}|StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar.csproj|C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\studentregistration_midterm_aryangajjar\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE8290-82F3-4CDD-A5F4-6B6C161F75AD}|StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar.csproj|solutionrelative:studentregistration_midterm_aryangajjar\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAE8290-82F3-4CDD-A5F4-6B6C161F75AD}|StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar.csproj|C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\studentregistration_midterm_aryangajjar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAE8290-82F3-4CDD-A5F4-6B6C161F75AD}|StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar.csproj|solutionrelative:studentregistration_midterm_aryangajjar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 708,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "registrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\registrationTests.cs",
+              "RelativeDocumentMoniker": "StudentRegistration_Midterm_AryanGajjar\\registrationTests.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\registrationTests.cs",
+              "RelativeToolTip": "StudentRegistration_Midterm_AryanGajjar\\registrationTests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:03:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registration.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\registration.cs",
+              "RelativeDocumentMoniker": "StudentRegistration_Midterm_AryanGajjar\\registration.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\registration.cs",
+              "RelativeToolTip": "StudentRegistration_Midterm_AryanGajjar\\registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:03:05.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRegistration_Midterm_AryanGajjar\\Program.cs",
+              "ToolTip": "C:\\Users\\aryan\\OneDrive\\Desktop\\PROG2070_MT25_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\StudentRegistration_Midterm_AryanGajjar\\Program.cs",
+              "RelativeToolTip": "StudentRegistration_Midterm_AryanGajjar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:02:46.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 410,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
